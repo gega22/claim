@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+.img1{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 30%;
+}
+.txt1{
+    font-size: 50px;
+    text-align: center;
+    color: yellow;
+    font-family: 'Oswald', sans-serif;
+}
+.txt2{
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+.txt3{
+    color: green;
+}
